@@ -1,0 +1,1 @@
+<p>ini adalah route menggunakan <b>view</b></p>
