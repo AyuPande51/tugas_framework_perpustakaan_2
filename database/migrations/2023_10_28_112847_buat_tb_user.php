@@ -19,8 +19,6 @@ return new class extends Migration
             $table->string('password', 100);
             $table->string('telp', 16)->nullable();
             $table->string('level', 16);
-            // option
-            $table->string('id_role');
         });
     }
 
